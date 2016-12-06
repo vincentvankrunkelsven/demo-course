@@ -16,7 +16,7 @@ Have a look at the plot that showed up in the viewer to the right. Which type of
 - Comedy
 
 *** =hint
-Have a look at the plot. Which color does the point with the lowest rating have?
+Have a look at the plot. Which color does the point with the lowest rating have? Test
 
 *** =pre_exercise_code
 ```{r}
