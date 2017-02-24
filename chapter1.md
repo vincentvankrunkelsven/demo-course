@@ -114,9 +114,3 @@ test_error()
 
 success_msg("Good work!")
 ```
-
---- type:VideoExercise lang:r xp:50 skills:1 key:31ddfad10e
-## Testing 
-
-
-*** =video_link

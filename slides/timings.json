@@ -1,0 +1,39 @@
+{
+  "slides/chapter_2_tes.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.027359835631790303,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.05140952531887375,
+      "state": {
+        "indexh": 1,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.07688454604885199,
+      "state": {
+        "indexh": 1,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.10519138085710324,
+      "state": {
+        "indexh": 1,
+        "indexf": 1
+      }
+    }
+  ]
+}
